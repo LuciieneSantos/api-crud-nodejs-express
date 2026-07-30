@@ -28,7 +28,7 @@ git clone https://github.com/LuciieneSantos/NOME-DO-REPOSITORIO.git
 ### 2. Acesse a pasta do projeto
 
 ```bash
-cd projeto-nodejs
+cd nodej-estudos
 ```
 
 ### 3. Instale as dependências
