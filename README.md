@@ -17,33 +17,31 @@ O projeto foi desenvolvido como parte dos estudos em desenvolvimento backend, ex
 
 ---
 
-## ⚙️ Instalação e execução
+## ⚙️ Execução dos projetos
 
-### 1. Clone o repositório
+Cada pasta contém um exemplo independente desenvolvido durante os estudos de Node.js.
 
-```bash
-git clone https://github.com/LuciieneSantos/NOME-DO-REPOSITORIO.git
-```
+Para executar um exemplo:
 
-### 2. Acesse a pasta do projeto
+1. Acesse a pasta desejada:
 
 ```bash
-cd nodej-estudos
+cd nome-da-pasta
 ```
 
-### 3. Instale as dependências
+2. Instale as dependências:
 
 ```bash
 npm install
 ```
 
-### 4. Execute o servidor
+3. Execute o arquivo principal do exemplo:
 
 ```bash
-node index.js
+node nome-do-arquivo.js
 ```
 
-O servidor será iniciado na porta configurada no projeto.
+O nome do arquivo pode variar conforme o exercício desenvolvido.
 
 ---
 
